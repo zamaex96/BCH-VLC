@@ -1,7 +1,7 @@
 
 
 #### Overview
-The provided code is written in Embedded C and is designed for an AVR microcontroller (likely ATmega32), focusing on implementing a BCH (31,16) error-correcting code for encoding and decoding messages. It also includes UART communication for data transmission and uses timers for timing operations.
+The provided code is written in Embedded C and is designed for an AVR microcontroller (likely ATmega128A), focusing on implementing a BCH (31,16) error-correcting code for encoding and decoding messages. It also includes UART communication for data transmission and uses timers for timing operations.
 ### Summary of Encoder C Code
 #### Key Components and Functions
 
