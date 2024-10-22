@@ -86,3 +86,10 @@ The code integrates error-correcting techniques (BCH) into an AVR microcontrolle
 
 ## Conclusion:
 This code implements robust error correction (BCH codes) for AVR microcontrollers, ensuring reliable data transmission over potentially noisy channels like UART. Efficient algorithms and GF32 arithmetic optimize performance within embedded system constraints.
+
+<div align="center">
+  <a href="https://maazsalman.org/">
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="gh" />
+  </a>
+  <p> Explore More! 🚀</p>
+</div>
